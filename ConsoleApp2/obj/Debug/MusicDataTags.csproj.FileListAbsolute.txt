@@ -1,0 +1,30 @@
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\obj\Debug\MusicDataTags.csprojAssemblyReference.cache
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\obj\Debug\MusicDataTags.csproj.CoreCompileInputs.cache
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\bin\Debug\taglib-sharp.dll
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\obj\Debug\MusicDataTags.csproj.CopyComplete
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.exe.config
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.exe.manifest
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.application
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.exe
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.pdb
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\obj\Debug\MusicMetadata.exe.manifest
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\obj\Debug\MusicMetadata.application
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\obj\Debug\MusicMetadata.exe
+C:\Users\Flynn\source\repos\MusicDataTags\ConsoleApp2\obj\Debug\MusicMetadata.pdb
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.exe.config
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.exe.manifest
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.application
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.exe
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\bin\Debug\MusicMetadata.pdb
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\bin\Debug\taglib-sharp.dll
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\obj\Debug\MusicDataTags.csprojAssemblyReference.cache
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\obj\Debug\MusicDataTags.csproj.CoreCompileInputs.cache
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\obj\Debug\MusicMetadata.exe.manifest
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\obj\Debug\MusicMetadata.application
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\obj\Debug\MusicDataTags.csproj.CopyComplete
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\obj\Debug\MusicMetadata.exe
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\MusicDataTags\ConsoleApp2\obj\Debug\MusicMetadata.pdb
